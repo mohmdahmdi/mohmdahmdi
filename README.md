@@ -1,4 +1,8 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="This quote will self-destruct" height="80">
+</p>
+<h1 align="center">"Currently debugging my personality."</h1>
+
 
 ###
 
