@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="This quote will self-destruct" height="80">
-</p>
 <h1 align="center">"Currently debugging my personality."</h1>
 
 
@@ -52,7 +49,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohmdahmdi/mohmdahmdi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohmdahmdi/mohmdahmdi/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
